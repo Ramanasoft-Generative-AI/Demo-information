@@ -1,0 +1,185 @@
+
+THis program highlights
+
+every day 2 hours session + 2 hours internship
+Myself would be taking the sessions + another coordinator will guide
+learners during the internship period
+
+THis course is for 3.5 to 4 months duration
+
+we have all the collboration tools are available like Jira, Teams, Github.
+
+This course is available as online as well as offline
+
+Python basics
+Assignment
+Statistics basics
+Assingment
+SQL basics
+Assignment
+Feature engineering
+2assignments
+Machine learning
+2 projects
+Deeplearning
+2 projects
+Generative AI
+2 Projects
+
+FOr doing this course we would be needed anaconda environment.
+Anaconda is python environment for doing Datascience projects
+It is freely downloadable from anaconda site
+
+https://www.youtube.com/watch?v=Qve5JTd1OSA
+
+TO download and install anaconda in windows environment.
+IT is a straight forward approach, it can be installable by
+following the video.
+
+20 Nov 2023 Session
+
+Python: 
+For feature engineering
+Cleaning the data also cover imputations
+encoding the data
+scaling the data
+Machine learning/Deep learning/ Generative AI modeling
+Deployment
+
+Topic we would be learning in Python.
+1. Basics of python
+Loops, conditionals, functions, file processing, exceptions
+Basic data structures like list, dictionary, tuple, set
+
+2. Data handling in Python using Pandas
+Pandas is basically python module to handling the data easily
+we will be dealing with 2 dimensional data
+2 dimenstional data => data with rows and columns
+
+We will get the data from data engineers in the form of Excel or CSV file
+we need query the database using SQL queries
+SQL => Structured Query language
+
+SQL => DQL, DML, DDL
+
+DQL => data query language queries
+example: select statement
+
+DML => data modification language queries
+Example: update statement
+
+DDL => data definition language queries
+Example: create statement
+
+Python:
+Python is Indented, Interpreted, functional, object oriented programming
+language
+
+Indented Programming language:
+--------------------------------
+In programming languages like C,C++, Java.
+we will compile the code after finishing coding activity.
+we might get any errors or warnings from the code, we will fix the errors
+and warnings.
+we will get executable of the code
+we will be running the executable to get the desired functionality of operation
+This type of languages are called compiled languages
+
+Where are python is an interpreted langugage=> it doesnot goes through compilation process
+after finishing code we will simply run the file.
+If there are any error s or warning, it will show the errors. If there are no errors
+the code would be executed
+
+Object oriented programming language:
+-------------------------------------
+In real world every item is associated with properties and functionalities
+Example: car
+properties
+4 wheels
+4 doors
+AC
+engine
+functionalities:
+we can travel in car
+We can have AC in car
+
+Every item in the python is called object.
+every object is associated with data/properties/attributes and functions
+
+Indentation:
+------------
+include <stdio.h> /* C language hello  world program */
+main()
+{
+printf("hello world");
+}
+
+# python code
+
+def main():
+    print("hello world")
+
+we need to start with new indent( leaving 4 spaces ) while we start any loop or if else or function
+some people use tab also but 4 spaces is the recommended best practice
+
+Leaving spaces like this with out having curly braces is called indentation
+
+functional:
+-----------
+we can send a function as an argument to any other function
+also we can return any function from any other function
+
+Data types:
+-----------
+Basic data types:
+Chars, Strings, Integers, Floats
+'c'     "Hello"   123      34.12
+
+Basic Python data types:
+List  => it is collection of items enclosed in square brackets [ ]
+         Any type of data items of any repeatations
+         it is a mutable(means we can alter the data items inside the list)
+         we can access the items using the index
+example: list1 = ['apple', 'orange', 12.56, 6745, 'apple', 'v', 'apple', 12.56, 897]
+
+Dictionary => it is collection of key value pairs enclosed by { }
+            keys are unique( keys are not repeatable )
+            no index
+            mutable, we can modify the data inside dictionary
+
+example: di1 = {'a':"apple",'b':"bombay",'c':"cat",100:"one hundred"}
+
+Tuple => it is a collection of itemd eclosed in normal bracker ( )
+         Any type of data items of any repeatations
+         it is immutable ( means we cannot alter the data items )
+         we can also access the items using the index
+example: tuple1 = ('apple', 'orange', 12.56, 6745, 'apple', 'v', 'apple', 12.56, 897)
+
+
+Set => Set is a collections of items enclosed by curly brackets { }
+       Any typeof items, NO REPEATATIONs ( no duplicates )
+       we cannot access using the index
+example: set1 = {'apple', 'orange', 12.56, 6745, 'v',897}
+
+
+
+list1 = ['apple', 'orange', 12.56, 6745, 'apple', 'v', 'apple', 12.56, 897]
+#          0         1        2     3       4      5     6       7      8
+
+Index starts with 0 and ends with n-1 where n is the length of the list
+
+print(list1[0]) # apple
+print(list1[8]) # 897
+print(list1[12]) # Index error
+
+We use anaconda python environment for datascience projects
+
+
+
+
+
+
+
+
+
+

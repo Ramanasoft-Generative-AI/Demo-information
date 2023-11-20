@@ -1,0 +1,130 @@
+
+Welcome to Prompt Engineering course Demo.
+
+Prompt engineering !!!!!
+ChatGPT ? 
+
+We are here to understand what is the technology behind chatGPT => 
+GPT => 
+
+to understand GPT => We do require some prerequsites: 
+
+Python
+Statistics 
+Machine learning 
+Deep learning '
+=> Generative ai => GPT /promptengineering 
+
+As part of this course we will cover all the pre requisites and make you ready to do a project on GPT 
+
+=> We need to understand python => 2 weeks 
+=> Statistics  =>  1 and half week  => 
+=> Machine learning  => 
+=> DL
+=> AI 
+=> Generative AI  => 
+
+4 months program  => 
+
+2 hours lecture  + 2 hours internship =>  4 hours  and into 4 months 
+
+in between we will prepare your resume  after 2 months as a ML engineer 
+
+another slot is  DL  =>  3 months
+
+Finally  after completing this course we are eligible for GEnerative AI  /Prompt engineering  profile  and 
+make your self ready for  fresher job or your first job or 
+search for your new job or transormation => 
+
+We will have senior faculty  surya bhanu  for entire courseteaching 
+
+and project coordinator  to make you ready with all project work 
+KT session 
+work assignment 
+work review 
+and conducting the mock interview after every chapter 
+=> In the internship we do provide tool like 
+mcirosoft teams for your team collbration 
+JIRA  for project work 
+Infinity  for all your classroom notes and assignments 
+github for code repository 
+
+we have a placement officer =>  he/she  will accomidate all the resurce pariticapting in internship 
+with all job openings avaialbel with our client 
+
+this service is avaialble upto 12 months 
+
+We continously focus on feedback and improvement actions 
+
+=================================================================
+Recently we placed one fresher 17LPA   in MNC
+===================================================================
+Bhanu sir is here to take up the technical session 
+
+8.30am to 10.30 am for your technical training after that we have a break 15min 
+and then we will start working assignments .  this tasks will start from monday/tuesday we will all the toools for you .
+=====================================================================
+doing the work rather than reading the work. 
+======================================================================
+
+My name is Ram prasad 
+I am handling all these internship at Ramana soft =>   We are working on  one in house project for our client 
+regarding the LMS (  assignments /  vidoe lectures /  quizes) 
+=> 
+ramprasad@ramanasoft.com 
+9160341834 
+==>
+
+chat+gpt
+chat => it is a verb
+gpt is a name of the algorithm => generative pretrained transformer 
+chat gpt is not real time
+We can make chat bots, summeriztion, seq to seq,
+
+LSTM => long short term memory training
+It needs large data, it needs large computation capability, it needs very huge amount of time to train
+sequential learning
+
+GPT training is split two parts
+1. pretraining
+2. fine tuning needs very less amount data/time/CPU resources
+
+Data scientist
+Machine learning engineer
+Prompt Engineer
+Genrative AI engineer
+
+1.Python basics:
+-Loops, conditions, functions, exceptions, file handling
+-Pandas handling data using pandas library
+*Assignmnet 
+2.Statistics:
+-Descriptive statistics
+-Inferential Statistics
+-Central limit theorem
+-Sampling techniques
+*Assignment 
+3.SQL:
+-DML, DDL, DQL queries
+*Assignment 
+4.Feature engineering sklearn
+* Two Assignments 
+5.Machine learning
+* Two Projects
+6. Deep learning
+* Two Projects
+7. Prompt engineering/GPT
+* Two Projects
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
